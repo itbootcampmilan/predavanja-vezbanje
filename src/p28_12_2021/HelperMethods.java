@@ -1,6 +1,6 @@
 package p28_12_2021;
 
-public class Zadatak1 {
+public class HelperMethods {
 
 	public static void main(String[] args) {
 		int[] niz = {1, 2,34,45,65,76,3};
