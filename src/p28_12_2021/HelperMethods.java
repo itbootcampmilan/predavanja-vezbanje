@@ -20,4 +20,7 @@ public class HelperMethods {
 		}
 	}
 
+	public static int sum(int[] array) {
+		return 0;
+	}
 }
